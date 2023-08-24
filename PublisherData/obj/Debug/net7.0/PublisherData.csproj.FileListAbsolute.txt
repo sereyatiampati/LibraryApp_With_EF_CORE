@@ -1,0 +1,15 @@
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/bin/Debug/net7.0/PublisherData.deps.json
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/bin/Debug/net7.0/PublisherData.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/bin/Debug/net7.0/PublisherData.pdb
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/bin/Debug/net7.0/PublisherDomain.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/bin/Debug/net7.0/PublisherDomain.pdb
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.csproj.CopyComplete
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/refint/PublisherData.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/PublisherData.pdb
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherData/obj/Debug/net7.0/ref/PublisherData.dll

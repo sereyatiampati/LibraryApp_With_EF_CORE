@@ -1,0 +1,12 @@
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/bin/Debug/net7.0/PublisherDomain.deps.json
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/bin/Debug/net7.0/PublisherDomain.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/bin/Debug/net7.0/PublisherDomain.pdb
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/refint/PublisherDomain.dll
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/PublisherDomain.pdb
+/home/sereya/Desktop/JiTu/EfCorePractice/PublisherDomain/obj/Debug/net7.0/ref/PublisherDomain.dll
